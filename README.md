@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IgnitE-vaibhav
+- 👋 Hi, I’m Vaibhav Singh
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Frontend Web Development.
 - 📫 reach me at vaibhavsinghr.08@gmail.com . 

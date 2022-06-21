@@ -12,7 +12,8 @@
 <h1>
   Hey there!
 </h1>
-:man_technologist: About Me :
+
+:man_technologist: About Me : </br>
 - 👋 Hi, I’m Vaibhav Singh from India.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Backend Web Development using Python based Django Framework.

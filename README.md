@@ -46,12 +46,12 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/zelfroster">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=zelfroster&theme=radical">
+    <a href="https://github.com/VaibhavSinghDev">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavSinghDev&theme=radical">
     </a>
     <br><br>
-    <a href="https://github.com/zelfroster">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=zelfroster&theme=radical" alt="stats">
+    <a href="https://github.com/VaibhavSinghDev">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavSinghDev&theme=radical" alt="stats">
     </a>
 <p>
 

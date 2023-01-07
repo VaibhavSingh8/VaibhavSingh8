@@ -6,10 +6,10 @@
    <img src = "https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vaibhavsingh0801/">
+  <a href="https://www.linkedin.com/in/vaibhavsinghdev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Vaibhavsinghr08">
+  <a href="https://twitter.com/VaibhavSinghDev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -23,7 +23,7 @@
 :man_technologist: About Me : </br>
 - 👋 Hi, I’m Vaibhav Singh from India.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Backend Web Development using Python based Django Framework.
+- 🌱 I’m currently learning JavaScript.
 - 📫 Reach me at vaibhavsinghr.08@gmail.com . 
 
 

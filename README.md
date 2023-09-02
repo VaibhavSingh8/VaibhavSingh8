@@ -22,8 +22,8 @@
 
 :man_technologist: About Me : </br>
 - 👋 Hi, I’m Vaibhav Singh from India.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m a self taught Web Developer.
+- 🌱 I’m currently learning ReactJS.
 - 📫 Reach me at vaibhavsinghr.08@gmail.com . 
 
 

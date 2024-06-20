@@ -6,10 +6,10 @@
    <img src = "https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vaibhavsinghdev/">
+  <a href="https://www.linkedin.com/in/vaibhavsingh8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/VaibhavSinghDev">
+  <a href="https://twitter.com/xVaibhavSingh">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -22,8 +22,8 @@
 
 :man_technologist: About Me : </br>
 - 👋 Hi, I’m Vaibhav Singh from India.
-- 👀 I’m a self taught Web Developer.
-- 🌱 I’m currently learning ReactJS.
+- 👀 I’m a Frontend Developer.
+- 🌱 I’m currently learning Backend Development.
 - 📫 Reach me at vaibhavsinghr.08@gmail.com . 
 
 
@@ -47,16 +47,16 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/VaibhavSinghDev">
+    <a href="https://github.com/VaibhavSingh8">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavSinghDev&theme=radical">
     </a>
     <br><br>
-    <a href="https://github.com/VaibhavSinghDev">
+    <a href="https://github.com/VaibhavSingh8">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavSinghDev&theme=radical" alt="stats">
     </a>
 <p>
 
 <!---
-VaibhavSinghDev/VaibhavSinghDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VaibhavSingh8/VaibhavSingh8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

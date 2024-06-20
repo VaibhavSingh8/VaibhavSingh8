@@ -48,11 +48,11 @@
 
 <p align="center">
     <a href="https://github.com/VaibhavSingh8">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavSinghDev&theme=radical">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=VaibhavSingh8&theme=radical">
     </a>
     <br><br>
     <a href="https://github.com/VaibhavSingh8">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavSinghDev&theme=radical" alt="stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=VaibhavSingh8&theme=radical" alt="stats">
     </a>
 <p>
 
